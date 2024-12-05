@@ -13,8 +13,8 @@ Tive a oportunidade de atuar como voluntária em **Desenvolvimento Front-end** n
 ## 🎓 Formação e Estudos
  Atualmente, estou aprofundando meu conhecimento técnico e consolidando minha carreira na área de **Desenvolvimento Web**.
 - **Graduação em Andamento, Universidade Uniasselvi** Tecnólogo de Sistemas para Internet  
-- **DESENVOLVIMENTO FRONT-END - Escola DNC**
-- **TECNOLOGIA EM GESTÃO FINANCEIRA - SENAC**
+- **Desenvolvimento Front End - Escola DNC**
+- **Tecnologia em Gestão Financeira - SENAC**
 
 ## 🚀 Sobre Mim
 Sou uma profissional determinada e apaixonada por aprender. Estou constantemente buscando formas de evoluir e contribuir com soluções inovadoras e funcionais no universo da tecnologia.
