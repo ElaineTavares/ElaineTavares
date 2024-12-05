@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Elaine Tavares! 👋
 
-<!--
-**ElaineTavares/ElaineTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formada em **Tecnologia em Gestão Financeira** e, ao longo do tempo, desenvolvi uma verdadeira paixão pelo **Desenvolvimento Web**. Essa descoberta me motivou a buscar uma transição de carreira, mergulhando profundamente no aprendizado e prática das principais tecnologias da área.
 
-Here are some ideas to get you started:
+## 🛠️ Competências
+- **Linguagens e Ferramentas:**  
+  GitHub | HTML | CSS | JavaScript | React
+- **Desenvolvimento Web:** Criação de sites, interfaces e soluções interativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Experiência
+Tive a oportunidade de atuar como voluntária em **Desenvolvimento Front-end** no **Instituto Capoeira Social**, aplicando e aprimorando meus conhecimentos em um projeto real que contribuiu diretamente para a comunidade.
+
+## 🎓 Formação e Estudos
+- **Graduação em Andamento:** Tecnólogo de Sistemas para Internet  
+  Atualmente, estou aprofundando meu conhecimento técnico e consolidando minha carreira na área de **Desenvolvimento Web**.
+
+## 🚀 Sobre Mim
+Sou uma profissional determinada e apaixonada por aprender. Estou constantemente buscando formas de evoluir e contribuir com soluções inovadoras e funcionais no universo da tecnologia.
+
+---
+
+✨ Vamos nos conectar?  
+- Meu LinkedIn: https://www.linkedin.com/in/elaine-tavares-b5797b1b0/
+
+- Alguns dos meus Projetos:
+- https://crud-operations-ten-peach.vercel.app/
+- https://organopet.vercel.app/
+- https://bookhub-zeta.vercel.app/
+- https://gerando-falcoes.vercel.app/
+- https://cristianecorretora.vercel.app/
+- https://hulu-teal.vercel.app/
