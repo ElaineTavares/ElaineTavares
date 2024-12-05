@@ -11,8 +11,10 @@ Sou formada em **Tecnologia em Gestão Financeira** e, ao longo do tempo, desenv
 Tive a oportunidade de atuar como voluntária em **Desenvolvimento Front-end** no **Instituto Capoeira Social**, aplicando e aprimorando meus conhecimentos em um projeto real que contribuiu diretamente para a comunidade.
 
 ## 🎓 Formação e Estudos
-- **Graduação em Andamento:** Tecnólogo de Sistemas para Internet  
-  Atualmente, estou aprofundando meu conhecimento técnico e consolidando minha carreira na área de **Desenvolvimento Web**.
+ Atualmente, estou aprofundando meu conhecimento técnico e consolidando minha carreira na área de **Desenvolvimento Web**.
+- **Graduação em Andamento, Universidade Uniasselvi** Tecnólogo de Sistemas para Internet  
+- **DESENVOLVIMENTO FRONT-END - Escola DNC**
+- **TECNOLOGIA EM GESTÃO FINANCEIRA - SENAC**
 
 ## 🚀 Sobre Mim
 Sou uma profissional determinada e apaixonada por aprender. Estou constantemente buscando formas de evoluir e contribuir com soluções inovadoras e funcionais no universo da tecnologia.
