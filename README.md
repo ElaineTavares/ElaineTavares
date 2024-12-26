@@ -23,11 +23,3 @@ Sou uma profissional determinada e apaixonada por aprender. Estou constantemente
 
 ✨ Vamos nos conectar?  
 - Meu LinkedIn: https://www.linkedin.com/in/elaine-tavares-b5797b1b0/
-
-- Alguns dos meus Projetos:
-- https://crud-operations-ten-peach.vercel.app/
-- https://organopet.vercel.app/
-- https://bookhub-zeta.vercel.app/
-- https://gerando-falcoes.vercel.app/
-- https://cristianecorretora.vercel.app/
-- https://hulu-teal.vercel.app/
